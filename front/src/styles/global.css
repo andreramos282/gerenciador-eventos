@@ -19,6 +19,11 @@
     font-family: var(--roboto-font);
 }
 
+body {
+    background-color: var(--g10-color);
+    color: var(--g1-color);
+}
+
 main {
     min-height: 100dvh;
     max-height: auto;
